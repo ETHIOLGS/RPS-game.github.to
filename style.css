@@ -1,0 +1,43 @@
+.div_all {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    border: 6px solid black;
+    border-radius: 12px;
+    background-image: url(t3.webp);
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.div_p {
+    margin: auto;
+    width: 90%;
+    height: 100px;
+    padding: 10px;
+}
+
+.div_bt {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+}
+button {
+    background-color: gray;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+img {
+    width: 30%;
+    height: auto;
+}
+.div12 {
+    width: 90%;
+    display: block;
+    margin-top: 10%;
+    margin-left: 20%;
+}
